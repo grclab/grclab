@@ -1,4 +1,4 @@
-### Hi there 👋
+# Temporary web page for GoodIT 2021
 
 <!--
 **grclab/grclab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
